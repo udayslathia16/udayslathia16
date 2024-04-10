@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udayslathia16
 - 👀 I’m interested in python
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development/DSA
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Reach me at udayslathia16@gmail.com
 
